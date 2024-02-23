@@ -20,3 +20,4 @@ export default function RootLayout({
     </html>
   );
 }
+//it renders your actual acontend like children which is inside your html files
